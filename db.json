@@ -1,0 +1,52 @@
+{
+  "news": [
+    {
+      "id": "3041",
+      "title": "Ashutosh SInha",
+      "shortDescription": "Ashutosh is a passionate developer..",
+      "category": "Website Developer",
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like",
+      "imageUrl": "https://placehold.it/300x200?text=Ashutosh SInha"
+    },
+    {
+      "id": "0d72",
+      "title": "Abhay Sinha",
+      "shortDescription": "Abhay Sinha is good business man, that have ability to store the almost content.",
+      "category": "Businessman",
+      "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "imageUrl": "https://placehold.it/300x200?text=Abhay Sinha"
+    },
+    {
+      "id": "183d",
+      "title": "Ram",
+      "shortDescription": "Ram is God of world..",
+      "category": "God",
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "imageUrl": "https://placehold.it/300x200?text=Ram"
+    },
+    {
+      "id": "8932",
+      "title": "Vishnu",
+      "shortDescription": "Vishnu is also god of world.",
+      "category": "God",
+      "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "imageUrl": "https://placehold.it/300x200?text=Vishnu"
+    },
+    {
+      "id": "96e4",
+      "title": "Shyamal",
+      "shortDescription": "Shyamal is good person",
+      "category": "Person",
+      "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "imageUrl": "https://placehold.it/300x200?text=Shyamal"
+    },
+    {
+      "id": "5b07",
+      "title": "Nandlal",
+      "shortDescription": "Nandall is  good person",
+      "category": "Person",
+      "content": "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://placehold.it/300x200?text=Nandlal"
+    }
+  ]
+}
